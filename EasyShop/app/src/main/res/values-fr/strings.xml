@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">EasyShop</string>
+
+    <string name="welcome">Bienvenue sur EasyShop</string>
+    <string name="step_one">Etape 1 : créez votre propre catalogue avec vos produits favoris</string>
+    <string name="manage_catalog">Gérer le catalogue</string>
+    <string name="step_two">Etape 2 : créez vos listes de courses et partagez les avec vos amis ou votre famille</string>
+    <string name="create_button">Créer une liste</string>
+    <string name="open_button">Ouvrir une liste</string>
+
+    <string name="title_catalog">Catalogue</string>
+    <string name="add_catalog">Ajouter un produit à votre catalogue</string>
+    <string name="product_name">Saisir le nom du produit :</string>
+    <string name="add_product">Ajouter un produit</string>
+    <string name="error_add">Produit déjà présent dans le catalogue</string>
+    <string name="success_add">Produit ajouté</string>
+    <string name="warning">Attention</string>
+    <string name="warning_msg">Ce produit sera supprimé du catalogue, êtes-vous sur(e) ?</string>
+    <string name="product_delete">Produit supprimé</string>
+    <string name="cancel">Action annulée</string>
+    <string name="no">Non</string>
+    <string name="yes">Oui</string>
+    <string name="no_file">Le fichier n\'existe pas</string>
+
+    <string name="create_list">Créer une nouvelle liste</string>
+    <string name="edit_list">Modifier votre liste</string>
+    <string name="author">Auteur :</string>
+    <string name="list_name">Nom de la liste :</string>
+    <string name="select_products">Sélectionner vos produits :</string>
+    <string name="save_list">Enregistrer la liste</string>
+    <string name="send_list">Envoyer la liste</string>
+    <string name="list_ok">Liste créée</string>
+    <string name="list_deleted">Liste supprimée</string>
+    <string name="open_list">Ouvrir une liste</string>
+    <string name="select_list">Sélectionner une liste :</string>
+    <string name="delete_list">Supprimer la liste</string>
+
+    <string name="mail_subject">EasyShop : </string>
+    <string name="mail_text"> vous a envoyé une liste EasyShop.</string>
+    <string name="mail_dialog">Envoyer votre liste :</string>
+    <string name="mail_success">Liste envoyée</string>
+
+</resources>

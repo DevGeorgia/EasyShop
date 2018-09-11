@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+
+    <!-- coins -->
+    <corners android:radius="20dp" />
+
+    <!-- couleur du fond -->
+    <solid android:color="@color/colorThree" />
+
+    <!--
+    <solid> A solid color to fill the shape.
+    <stroke> A stroke line for the shape.
+    -->
+</shape>

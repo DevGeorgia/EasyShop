@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EasyShop</string>
+
+    <string name="welcome">Welcome to EasyShop</string>
+    <string name="step_one">Step 1 : create your own catalog with your favorites products</string>
+    <string name="manage_catalog">Manage catalog</string>
+    <string name="step_two">Step 2 : Create your shopping list and share it with friends and family</string>
+    <string name="create_button">Create a list</string>
+    <string name="open_button">Open a list</string>
+
+    <string name="title_catalog">Catalog</string>
+    <string name="add_catalog">Add a product in your catalog</string>
+    <string name="product_name">Enter a product name :</string>
+    <string name="add_product">Add product</string>
+    <string name="error_add">Product already in catalog</string>
+    <string name="success_add">Product added</string>
+    <string name="warning">Warning</string>
+    <string name="warning_msg">This product will be deleted from the catalog, are you sure ?</string>
+    <string name="product_delete">Product deleted</string>
+    <string name="cancel">Action cancelled</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="no_file">File doesn\'t exist</string>
+
+    <string name="create_list">Create a new list</string>
+    <string name="edit_list">Edit your list</string>
+    <string name="author">Author :</string>
+    <string name="list_name">List name :</string>
+    <string name="select_products">Select your products :</string>
+    <string name="save_list">Save list</string>
+    <string name="send_list">Send list</string>
+    <string name="list_ok">List created</string>
+    <string name="list_deleted">List deleted</string>
+    <string name="open_list">Open a list</string>
+    <string name="select_list">Select a list :</string>
+    <string name="delete_list">Delete list</string>
+
+    <string name="mail_subject">EasyShop : </string>
+    <string name="mail_text"> sent you an EasyShop List.</string>
+    <string name="mail_dialog">Send your list :</string>
+    <string name="mail_success">List sent</string>
+
+
+</resources>
